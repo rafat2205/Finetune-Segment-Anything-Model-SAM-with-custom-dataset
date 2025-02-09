@@ -1,4 +1,4 @@
-# Finetune-Segment-Anything-Model-SAM-on-custom-dataset
+# Finetune-Segment-Anything-Model-SAM-with-custom-dataset
 
 1. Create a dataset for segmentation.
 2. Go to https://app.roboflow.com/ and upload the dataset.
